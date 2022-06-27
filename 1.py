@@ -1,5 +1,5 @@
 a = "hello world!"
-b = 8
+b = 6
 c = False
 d = ["noam", "zaidman", 39, ["snowboard", "surf"]]
 e = ("noam", 32, True)

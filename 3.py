@@ -1,7 +1,7 @@
 # Definition of savings and result
 savings = 100
 result = 100 * 1.10 ** 7
-t = 4
+t = 6
 # Fix the printout
 print("I started with $" + str(savings) + " and now have $" + str(result) + ". Awesome!")
 
